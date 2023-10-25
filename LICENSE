@@ -618,6 +618,15 @@ an absolute waiver of all civil liability in connection with the
 Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
+Additional Requirement under GNU GPL version 3 section 7
+
+Should you use this Program, or any covered work, in the context of producing academic articles or scholarly publications, the licensors of this Program require you to cite and acknowledge the following paper：
+
+@article{wang2022global, title={A global direct search method for high-fidelity contact detection between arbitrarily shaped three-dimensional convex polyhedral blocks}, author={Wang, Xi and Wu, Wei and Zhu, Hehua and Zhang, Hong and Lin, Jeen-Shang and Bobet, Antonio}, journal={Computers and Geotechnics}, volume={150}, pages={104891}, year={2022}, publisher={Elsevier} }
+
+The citation should include the name of the Program, the version used, and a reference to the original source of the Program. This requirement does not detract from the conditions of the GPL and is added to ensure proper credit is given in academic and scholarly contexts. 
+
+
                      END OF TERMS AND CONDITIONS
 
             How to Apply These Terms to Your New Programs
